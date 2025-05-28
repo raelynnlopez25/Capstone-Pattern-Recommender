@@ -91,5 +91,5 @@ If you are a designer and have concerns about your pattern metadata being includ
 
 SUPPORT
 ------------
-For program support, performance issues, or errors, please reach out to the developer via rlop373@wgu.edu and include a detailed description.
+For program support, performance issues, or errors, please reach out to the developer via raelynnlopez2025@gmail.com and include a detailed description.
 
